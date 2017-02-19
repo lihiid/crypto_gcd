@@ -1,6 +1,3 @@
-
-
-
 package nist
 
 import (
