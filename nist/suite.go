@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	"gopkg.in/dedis/crypto.v0/abstract"
+	"github.com/lihiid/Crypto/abstract"
 	"gopkg.in/dedis/crypto.v0/cipher/sha3"
 	"gopkg.in/dedis/crypto.v0/random"
 )
