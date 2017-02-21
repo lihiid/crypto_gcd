@@ -8,7 +8,7 @@ import (
 	"io"
 	"math/big"
 	//"encoding/hex"
-	"gopkg.in/dedis/crypto.v0/abstract"
+	"github.com/lihiid/Crypto/abstract"
 	"gopkg.in/dedis/crypto.v0/group"
 	"gopkg.in/dedis/crypto.v0/random"
 )
