@@ -7,7 +7,7 @@ import (
 	"io"
 	"math/big"
 
-	"gopkg.in/dedis/crypto.v0/abstract"
+	"github.com/lihiid/Crypto/abstract"
 	"gopkg.in/dedis/crypto.v0/group"
 	"gopkg.in/dedis/crypto.v0/math"
 	"gopkg.in/dedis/crypto.v0/random"
